@@ -837,7 +837,8 @@
 }
 
 .service-block-one .inner-box p{
-  transition: all 500ms ease
+  transition: all 500ms ease;
+  text-align: left;
 }
 
 .service-block-one .inner-box .link a{
@@ -1449,6 +1450,7 @@
 
 .counter-block-one .inner-box p{
   color: #fff;
+  text-align: center;
 }
 
 .funfact-one .shape .shape-1{
@@ -15663,7 +15665,7 @@ div[class^="bubble-"] {
   position: absolute;
   top: 0;
   left: 100%;
-  background: #fff;
+  background: #fff0;
   -webkit-transition: 1s cubic-bezier(.858, .01, .068, .99);
   -o-transition: 1s cubic-bezier(.858, .01, .068, .99);
   transition: 1s cubic-bezier(.858, .01, .068, .99);
